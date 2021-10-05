@@ -54,7 +54,7 @@
 # [컨셉 & 대표이미지 기반 작품묘사]
 
 > ### 대표이미지 기반 :
-![그림](./img/explain_img.PNG)
+ <img src="./img/explain_img.PNG">
 
 > ### 컨셉 기반:
 
