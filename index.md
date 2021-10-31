@@ -61,10 +61,11 @@
 
 - 이미지  
   <img src="./img/relation_img.PNG">
+  <img src="./img/relation_img2.PNG">
 - 동영상
 
   [![](./img/youtube_img.png)](https://youtu.be/jrcrMw55IO4)
-
+  [![](./img/youtube_img2.png)](https://youtu.be/omoSCTVtjCM)
 <br><br>
 
 # 4. [대표 이미지] <a name='3'></a>
