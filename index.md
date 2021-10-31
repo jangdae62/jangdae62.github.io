@@ -62,7 +62,8 @@
 - 이미지  
   <img src="./img/relation_img.PNG">
 - 동영상
-  [![](./img/youtube_img.png)](https://www.youtube.com/watch?v=keyFDxLxFXY)
+
+  [![](./img/youtube_img.png)](https://youtu.be/jrcrMw55IO4)
 
 <br><br>
 
