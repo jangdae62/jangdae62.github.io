@@ -413,3 +413,4 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 <img src="./img/Key_flowchart.PNG">
 
 # 9. [개발작업 일정] <a name='8'></a>
+<img src="./img/Schedule.PNG">
