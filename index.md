@@ -62,7 +62,7 @@
 - 이미지  
   <img src="./img/relation_img.PNG">
 - 동영상
-  [![](./img/그림.png)](https://youtu.be/keyFDxLxFXY)
+  [![](./img/그림.png)](https://www.youtube.com/watch?v=keyFDxLxFXY)
 
 <br><br>
 
