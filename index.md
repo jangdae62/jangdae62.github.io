@@ -70,14 +70,14 @@
 
 # 4. [대표 이미지] <a name='3'></a>
 
-![그림](./img/rep_img.PNG)
+![그림](./img/rep_img2.PNG)
 
 <br><br>
 
 # 5. [컨셉 & 대표이미지 기반 작품묘사] <a name='4'></a>
 
 > ### 대표이미지 기반 :
- <img src="./img/explain_img.PNG">
+ <img src="./img/explain_img2.PNG">
 
 > ### 컨셉 기반:
 
