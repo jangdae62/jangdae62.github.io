@@ -417,7 +417,7 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 <img src="./img/Time_flowchart.PNG">
 
 ### 2. 투자활동 관련 흐름도
-<img src="./img/flowchart.PNG">
+<img src="./img/flowchart2.PNG">
 
 ## c. 키보드 이벤트에 대한 흐름도 <b name = 'j'></b>
 
