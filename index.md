@@ -421,7 +421,7 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 
 ## c. 키보드 이벤트에 대한 흐름도 <b name = 'j'></b>
 
-<img src="./img/Key_flowchart2.PNG">
+<img src="./img/Key_flowchart3.PNG">
 
 # 9. [개발작업 일정] <a name='8'></a>
 <img src="./img/Schedule.PNG">
