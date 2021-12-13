@@ -504,15 +504,6 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 3)이동 후에 새로운 Scene으로 전환
 4)소지하고 있는 금액을 알 수 있는 UI 배치
 
-
-
-
-
-
-<video width="100%" height="100%" controls="controls">
-  <source src="./img/2.mp4" type="video/mp4">
-</video>
-
 ### 작업 결과
 
 1)캐릭터가 방 안에서만 돌아다니게 한다. (90%) -> 이유: 버그가 발생하여 한번씩 방밖으로 나가는 경우가 생김
