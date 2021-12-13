@@ -442,4 +442,6 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 <img src="./img/Schedule.PNG">
 
 변경 개발 작업
+
+
 <img src="./img/Change_schedule.PNG">
