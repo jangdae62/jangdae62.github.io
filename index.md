@@ -481,12 +481,8 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 
 ### 결과동영상
 <video width="100%" height="100%" controls="controls">
-  <source src="./img/1주차_동영상.mp4" type="video/mp4">
+  <source src="./img/1Week.mp4" type="video/mp4">
 </video>
-
-
-
-
 
 
 ## b. 2주차
