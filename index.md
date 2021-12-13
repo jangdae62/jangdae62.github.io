@@ -504,6 +504,11 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 3)이동 후에 새로운 Scene으로 전환
 4)소지하고 있는 금액을 알 수 있는 UI 배치
 
+
+
+
+
+
 <video width="100%" height="100%" controls="controls">
   <source src="./img/2.mp4" type="video/mp4">
 </video>
