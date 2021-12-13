@@ -519,6 +519,12 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 
 4)소지하고 있는 금액을 알 수 있는 UI 배치(100%)
 
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/2Week.mp4" type="video/mp4"></video>
+
+
+
 ## c. 3주차
 ### 구현 목표
 
@@ -587,6 +593,13 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 8. 각 상황에 맞게 실제 시간 10초마다 그래프가 변동이 된다.(70%)
 
 -> 10초 주기로 가격이 오르내리는 것, 그래프를 그렸으나 두개의 스크립트를 연동 및 UI구현하지 못함
+
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/3Week.mp4" type="video/mp4"></video>
+
+
+
 ## d. 4주차
 ### 구현 목표
 작업명 : 그래프, 가격변동 알고리즘 연동
@@ -608,6 +621,12 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
       ->6주차로 계획 변경
       
 3.게임 내 시간 구현, 게임에서 거래되는 돈 모든 씬에서 연동시키기(100%)
+
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/4Week.mp4" type="video/mp4"></video>
+
+
 
 ## e. 5주차
 ### 구현 목표
@@ -646,6 +665,12 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 
 4.주식 거래시장이 닫히면 그래프가 정지하도록 구현(100%)
 
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/5Week.mp4" type="video/mp4"></video>
+
+
+
 ## f. 6주차
 ### 구현 목표
 
@@ -683,3 +708,9 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 5.22시이후 에만 침대오브젝트가 활성화
 
 6.22시이후 침대 오브젝트를 누르면 화면이 페이드아웃 되었다 페이드 인되며 시간이 8시로 이동
+
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/6Week.mp4" type="video/mp4"></video>
+
+
