@@ -479,6 +479,12 @@ Unity엔진을 이용하여 제작합니다. 모바일, pc모두 구동이 가�
 2) 캐릭터를 내부에 배치 (100%)
 3) 스테이터스 표시기 UI 제작 3개(100%)
 
+### 결과동영상
+<video width="100%" height="100%" controls="controls">
+  <source src="./img/1주차 동영상.mp4" type="video/mp4">
+</video>
+
+
 
 
 
